@@ -1,0 +1,6 @@
+Features => SeleniumTest1\src\test\java 
+StepDefinition => SeleniumTest1\src\test\java
+TestRunner => SeleniumTest1\src\test\java\CucumberOptions
+PageObjects => SeleniumTest1\src\test\java
+HTML Reports => SeleniumTest1\test-output
+Screenshots => SeleniumTest1\test-output\Screenshots
